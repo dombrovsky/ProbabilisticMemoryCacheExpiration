@@ -1,0 +1,2 @@
+# ProbabilisticMemoryCacheExpiration
+Decorator for IMemoryCache that implements probabilistic cache expiration
